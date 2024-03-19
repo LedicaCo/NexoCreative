@@ -1,0 +1,18 @@
+.our-work-title {
+    color: ghostwhite;
+    text-align: center;
+    padding: 20px 0;
+    background: #000;
+    font-size: 1.5rem;
+       
+}
+
+.our-work-container {
+    background:#101010;   
+    
+    .box {
+        width: 400px;
+        height: 400px;
+        background: purple;
+    }
+}

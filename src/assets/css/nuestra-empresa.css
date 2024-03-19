@@ -1,0 +1,90 @@
+.ne-container {
+    background:#101010;
+    padding: 10px;
+    
+    
+}
+
+.ne-title {
+    color: ghostwhite;
+    text-align: center;
+    padding: 20px 0;
+    background: #000;
+    font-size: 1.5rem;
+    /* margin-bottom: 20px; */
+    
+    
+}
+
+.ne-card {
+    display: flex;
+    flex-direction: row;
+    padding: 0 20px;
+    gap: 20px;
+    border: 1px solid #9999ff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+    .ne-row {
+        margin-top: 20px;
+        display: flex;
+        width: 100%;
+        gap: 20px;
+        
+    }
+    
+    .ne-image-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 30%;
+        background: #000;
+        margin-bottom: 20px;
+        
+        .ne-card-title {
+            color: ghostwhite;
+            font-size: 1.5rem;
+            padding: 5px 0;
+            text-align: center;
+        }
+        
+    }
+    .ne-row img {
+        height: 220px;
+    }
+    
+    .ne-card-text {
+        width: 70%;
+        color: ghostwhite;
+        margin-bottom: 20px;
+        
+        
+        .logo-nexo-creative {
+            margin: auto;
+            width: 300px;
+            height: 30px;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    
+    .ne-card {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .ne-row{
+        display: flex;
+        flex-direction: column;
+        .ne-image-content{
+            width: 100%;
+        }
+        .ne-card-text {
+            width: 100%;
+        }
+    }
+    
+     }
