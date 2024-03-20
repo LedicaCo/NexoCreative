@@ -1,5 +1,5 @@
 import "../assets/css/inicio.css";
-import LogoReact from '../../public/7423887_react_react native_icon.png';
+import LogoReact from '../../public/logo-horizontal-react.png';
 import LogoMeta from '../../public/logo-horizontal-meta.png';
 const Inicio = () => {
   return (
