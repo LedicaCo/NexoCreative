@@ -1,5 +1,6 @@
 import '../assets/css/nuestro-trabajo.css'
-import Slide3D from './Slide3D'
+import Galeria from './Galeria'
+
 
 const NuestroTrabajo = () => {
   return (
@@ -8,7 +9,7 @@ const NuestroTrabajo = () => {
         <span>Nuestro Trabajo</span>
       </div>
       <article className='our-work-container'>
-      <Slide3D />
+      <Galeria />
       </article>
     </>
   )
