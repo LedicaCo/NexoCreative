@@ -1,6 +1,6 @@
 import "../assets/css/nuestra-empresa.css";
 import NexoOficinas from "../../public/oficina.jpg";
-import logoNexoCreative from "../../public/logo+nexo+creative.png";
+import logoNexoCreative from "/logo-nexo-creative.png";
 import MisionImage from "../../public/mision.jpg";
 import VisionImage from "../../public/vision.jpg";
 import ValoresImage from "../../public/valores.jpg";
