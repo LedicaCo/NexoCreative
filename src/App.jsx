@@ -2,7 +2,7 @@ import "./App.css";
 import "./assets/css/navbar.css";
 import "./assets/css/sidebar.css";
 import Inicio from "./components/Inicio";
-import logoNexoCreative from "/logo+nexo+creative.png";
+import logoNexoCreative from '/logo-nexo-creative.png'
 import Dropdown from './components/Dropdown';
 import NuestraEmpresa from "./components/NuestraEmpresa";
 import NuestroTalento from "./components/NuestroTalento";
