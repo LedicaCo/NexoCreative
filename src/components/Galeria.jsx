@@ -10,55 +10,55 @@ const Galeria = () => {
         <div className="collage-item">
           <img className="demo-image" src={DemoNexo} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+            <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={DemoLagsi} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
         <div className="collage-item">
           <img className="demo-image" src={ImagenVacia} alt="" />
           <div className="btn-content">
-            <button className="btn-nexo">Visitar sitio</button>
+          <a href="#" className="btn-nexo">Visitar sitio</a>
           </div>
         </div>
       </article>
