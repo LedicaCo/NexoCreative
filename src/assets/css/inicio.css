@@ -65,7 +65,10 @@
 @media (max-width: 767.98px) {
     
     .home-body {
-        height: 250px;
+        width: 100%;
+        .image-parallax {
+            width: 70%;
+        }
     }
     .home-banner h1 {
         font-size: 1.3rem;
