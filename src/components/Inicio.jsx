@@ -1,12 +1,18 @@
 import "../assets/css/inicio.css";
-import LogoReact from '../../public/logo-horizontal-react.png';
-import LogoMeta from '../../public/logo-horizontal-meta.png';
+import LogoReact from "../../public/logo-horizontal-react.png";
+import LogoMeta from "../../public/logo-horizontal-meta.png";
+import LogoVerticalNexo from "../../public/logo-vertical-nexo-creative.png";
 const Inicio = () => {
   return (
     <>
-      <div className="home-body" id="inicio"></div>
+      <div className="home-body" id="inicio">
+      <div className="parallax">
+        <img className="image-parallax" src={LogoVerticalNexo} alt="" />
+      </div>
+      </div>
+
       <div className="home-banner">
-        <h1>DISEÑO Y DESARROLLO  DE APLICACIONES WEB</h1>
+        <h1>DISEÑO Y DESARROLLO DE APLICACIONES WEB</h1>
         <p>
           En un mundo de constantes cambios su empresa necesita un sitio web de
           calidad, dinámico y orientado específicamente a sus clientes
@@ -18,10 +24,15 @@ const Inicio = () => {
           proyectos desde hace más de 3 años en el mercado colombiano. Sabemos
           cómo posicionar su marca en internet.
         </p>
-        <p>Usamos React, una biblioteca de Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Meta Platform creadores de Facebook y la comunidad de software libre. </p>
+        <p>
+          Usamos React, una biblioteca de Javascript de código abierto diseñada
+          para crear interfaces de usuario con el objetivo de facilitar el
+          desarrollo de aplicaciones en una sola página. Es mantenido por Meta
+          Platform creadores de Facebook y la comunidad de software libre.{" "}
+        </p>
         <div className="logo-meta-platform">
-        <img className="logos-redes" src={LogoReact} alt="" />
-        <img className="logos-redes" src={LogoMeta} alt="" />
+          <img className="logos-redes" src={LogoReact} alt="" />
+          <img className="logos-redes" src={LogoMeta} alt="" />
         </div>
       </div>
     </>

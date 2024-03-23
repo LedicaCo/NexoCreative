@@ -1,22 +1,69 @@
-import '../assets/css/galeria.css';
+import "../assets/css/galeria.css";
+import DemoLagsi from "../../public/lagsi.png";
+import DemoNexo from '../../public/nexo.png';
+import ImagenVacia from '../../public/imagen-vacia.png';
 
 const Galeria = () => {
   return (
     <>
-    <article className="collage-content">
-    <div className="collage-item">1</div>
-    <div className="collage-item">2</div>
-    <div className="collage-item">3</div>
-    <div className="collage-item">4</div>
-    <div className="collage-item">5</div>
-    <div className="collage-item">6</div>
-    <div className="collage-item">7</div>
-    <div className="collage-item">8</div>
-    <div className="collage-item">9</div>
-    
-    </article>
+      <article className="collage-content">
+        <div className="collage-item">
+          <img className="demo-image" src={DemoNexo} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={DemoLagsi} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+        <div className="collage-item">
+          <img className="demo-image" src={ImagenVacia} alt="" />
+          <div className="btn-content">
+            <button className="btn-nexo">Visitar sitio</button>
+          </div>
+        </div>
+      </article>
     </>
-  )
-}
+  );
+};
 
-export default Galeria
+export default Galeria;

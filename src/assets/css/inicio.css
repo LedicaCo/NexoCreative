@@ -1,7 +1,28 @@
 .home-body {
     width: 100%;
-    background: url('/public/portada-nexo-creative.jpg') center center/cover;
-    height: 600px;
+    background: url('/portada-nexo-creative.jpg') center center/cover;
+    height: 650px;
+    background-attachment: fixed;
+        
+    
+        
+        
+    }
+
+    .parallax {
+        background: rgba(0, 0, 0, .1);
+        height: 650px;
+        display: flex;
+        justify-content: center;
+        
+        .image-parallax {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 25%;
+            margin: auto;
+        }
+    
     
     
     

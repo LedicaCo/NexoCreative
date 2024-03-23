@@ -6,12 +6,33 @@
     
     .collage-item {
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
-        font-size: 5rem;
+        /* font-size: 5rem; */
         color: ghostwhite;
         width: 100%;
-        height: 275px;
-        background: gray;
+        height: 100%;
+    }
+    
+    .demo-image {
+        width: 100%;
+    }
+    
+    .btn-nexo {
+        width: 150px;
+        padding: 8px 0;
+        margin: 10px 0;
+        border-radius: 5px;
+        border: 1px solid #87CEFA;
+        background: none;
+        color: ghostwhite;font-family: 'Comfortaa';
+    }
+    
+    .btn-nexo:hover {
+        background: #87CEFA;
+        color: #000000;
+        transition: all .3s ease;
+        
     }
 }
