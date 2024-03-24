@@ -152,7 +152,7 @@ const NuestraEmpresa = () => {
                   <li><strong>Adaptabilidad: </strong> Estamos preparados para
                 enfrentar los desafíos y cambios del entorno empresarial, siendo
                 flexibles y ágiles en nuestra respuesta para satisfacer las
-                necesidades del mercado.s</li><br />
+                necesidades del mercado.</li><br />
                 </ul>
                 En Nexo Creative S.A.S., estamos
                 impulsados por nuestra pasión por la tecnología y el compromiso
