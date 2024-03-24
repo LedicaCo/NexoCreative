@@ -13,8 +13,8 @@ const DesarrolloALaMedida = () => {
           <p className="dev-text">
             El desarrollo de aplicaciones y sitios web a la medida implica crear
             soluciones personalizadas que se ajusten específicamente a las
-            necesidades y requisitos de un cliente en particular. En el caso de
-            Nexo Creative S.A.S., esta práctica significa diseñar y construir
+            necesidades y requisitos de un cliente en particular. En el caso de &nbsp;
+            <strong className="highlight-name">Nexo Creative S.A.S.</strong>, esta práctica significa diseñar y construir
             aplicaciones web y sitios que son únicos para cada cliente, en lugar
             de utilizar soluciones preexistentes o genéricas. <br /><br /> Nuestro enfoque en
             el desarrollo de aplicaciones y sitios web a la medida se centra en comprender a fondo las necesidades comerciales y
@@ -30,7 +30,7 @@ const DesarrolloALaMedida = () => {
             control total sobre el proceso de desarrollo, pueden garantizar que
             la aplicación o el sitio web satisfagan exactamente sus necesidades
             únicas y reflejen la identidad de su marca de manera auténtica. <br /><br /> En
-            resumen, en Nexo Creative S.A.S., el desarrollo de aplicaciones y
+            resumen, en <strong className="highlight-name">Nexo Creative S.A.S.</strong>,&nbsp; el desarrollo de aplicaciones y
             sitios web a medida implica crear soluciones digitales
             personalizadas que se adaptan perfectamente a las necesidades
             individuales de cada cliente, brindando resultados excepcionales y
