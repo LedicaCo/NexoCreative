@@ -26,18 +26,29 @@ const NuestraEmpresa = () => {
                 alt=""
               />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Eveniet vero cum minima in sunt, qui sit natus deleniti
-                aspernatur autem neque dolorum illo. Officia suscipit eveniet
-                modi magnam? Impedit, rerum quidem culpa voluptatem voluptate
-                cumque earum explicabo soluta unde, cum a minima, hic eius
-                atque. Tempore perspiciatis voluptas quo quisquam provident
-                reprehenderit nulla, nam assumenda, voluptatibus iusto doloribus
-                maiores quod ipsa voluptatum quasi nihil repellat illo totam
-                repellendus mollitia numquam qui consectetur corrupti officia?
-                Aliquam, qui repellat. Consequatur nemo impedit ipsum aut quae
-                velit voluptatibus, obcaecati id animi necessitatibus at eveniet
-                repellat officia laborum fuga voluptatem!
+                Nexo Creative S.A.S. es una empresa especializada en el
+                desarrollo de aplicaciones y sitios web con un enfoque principal
+                en sistemas de seguridad, control de procesos y actividades
+                comerciales. <br />
+                <br /> Con sede en la ciudad de Medellín, Antioquia Colombia,
+                legalamente constituida ante la Cámara de Comercio. Nuestra
+                empresa se destaca por su experiencia en la utilización de
+                tecnologías modernas como{" "}
+                <i className="cursive">
+                  HTML5, CSS3, JavaScript, React.Js, Redux.Js, React Router DOM
+                  del lado del FrontEnd y Node.Js, Express.Js, Nest.Js y MySQL
+                  del lado del Servidor para ofrecer soluciones innovadoras y
+                  seguras.
+                </i>{" "}
+                <br />
+                <br /> Nos enorgullecemos de nuestro compromiso con la
+                excelencia técnica y el servicio al cliente, trabajando en
+                estrecha colaboración con nuestros clientes para entender y
+                superar sus expectativas. <br />
+                <br /> Con un equipo altamente calificado y una visión centrada
+                en la innovación, en Nexo Creative S.A.S. estamos preparados
+                para enfrentar cualquier desafío y llevar a nuestros clientes
+                hacia el éxito en el mundo digital.
               </p>
             </div>
           </div>
@@ -51,18 +62,25 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Eveniet vero cum minima in sunt, qui sit natus deleniti
-                aspernatur autem neque dolorum illo. Officia suscipit eveniet
-                modi magnam? Impedit, rerum quidem culpa voluptatem voluptate
-                cumque earum explicabo soluta unde, cum a minima, hic eius
-                atque. Tempore perspiciatis voluptas quo quisquam provident
-                reprehenderit nulla, nam assumenda, voluptatibus iusto doloribus
-                maiores quod ipsa voluptatum quasi nihil repellat illo totam
-                repellendus mollitia numquam qui consectetur corrupti officia?
-                Aliquam, qui repellat. Consequatur nemo impedit ipsum aut quae
-                velit voluptatibus, obcaecati id animi necessitatibus at eveniet
-                repellat officia laborum fuga voluptatem!
+                En Nexo Creative S.A.S., nuestra misión es ser la fuerza motriz
+                detrás de la transformación digital de nuestros clientes,
+                ofreciendo soluciones tecnológicas de vanguardia que impulsen su
+                crecimiento y éxito en el mundo digital. <br />
+                <br /> Nos comprometemos a ser líderes en el desarrollo de
+                aplicaciones web, destacándonos por nuestra innovación,
+                excelencia técnica y atención inquebrantable al cliente. <br />
+                <br /> Trabajamos incansablemente para entender las necesidades
+                únicas de cada cliente y proporcionarles soluciones
+                personalizadas y efectivas que superen sus expectativas. <br />
+                <br /> Al emplear tecnologías emergentes y establecer nuevos
+                estándares de calidad, nos esforzamos por ser un socio de
+                confianza que no solo resuelve problemas, sino que también
+                anticipa y aborda las necesidades futuras de nuestros clientes.{" "}
+                <br />
+                <br /> Nuestra misión es impulsar la transformación digital de
+                personas, empresas y organizaciones, permitiéndoles alcanzar su
+                máximo potencial en un mundo cada vez más conectado y
+                tecnológico.
               </p>
             </div>
           </div>
@@ -75,18 +93,22 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Eveniet vero cum minima in sunt, qui sit natus deleniti
-                aspernatur autem neque dolorum illo. Officia suscipit eveniet
-                modi magnam? Impedit, rerum quidem culpa voluptatem voluptate
-                cumque earum explicabo soluta unde, cum a minima, hic eius
-                atque. Tempore perspiciatis voluptas quo quisquam provident
-                reprehenderit nulla, nam assumenda, voluptatibus iusto doloribus
-                maiores quod ipsa voluptatum quasi nihil repellat illo totam
-                repellendus mollitia numquam qui consectetur corrupti officia?
-                Aliquam, qui repellat. Consequatur nemo impedit ipsum aut quae
-                velit voluptatibus, obcaecati id animi necessitatibus at eveniet
-                repellat officia laborum fuga voluptatem!
+                En Nexo Creative S.A.S., nuestro objetivo es trascender como un
+                punto de referencia indiscutible en el ámbito del desarrollo de
+                aplicaciones web. <br />
+                <br /> Buscamos ser reconocidos no solo por nuestra capacidad
+                innovadora, sino también por nuestra dedicación a la excelencia
+                técnica y nuestra firme orientación hacia la satisfacción del
+                cliente. <br />
+                <br /> Este compromiso se refleja en nuestra constante búsqueda
+                de tecnologías emergentes y en nuestra determinación de
+                establecer nuevos estándares de calidad y eficiencia en el
+                mercado. <br />
+                <br /> Creemos que al elevar continuamente nuestras capacidades
+                y ofrecer soluciones sobresalientes, no solo impulsamos el éxito
+                de nuestra propia empresa, sino que también contribuimos al
+                crecimiento y prosperidad de nuestros clientes en el ámbito
+                digital.
               </p>
             </div>
           </div>
@@ -99,18 +121,44 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Eveniet vero cum minima in sunt, qui sit natus deleniti
-                aspernatur autem neque dolorum illo. Officia suscipit eveniet
-                modi magnam? Impedit, rerum quidem culpa voluptatem voluptate
-                cumque earum explicabo soluta unde, cum a minima, hic eius
-                atque. Tempore perspiciatis voluptas quo quisquam provident
-                reprehenderit nulla, nam assumenda, voluptatibus iusto doloribus
-                maiores quod ipsa voluptatum quasi nihil repellat illo totam
-                repellendus mollitia numquam qui consectetur corrupti officia?
-                Aliquam, qui repellat. Consequatur nemo impedit ipsum aut quae
-                velit voluptatibus, obcaecati id animi necessitatibus at eveniet
-                repellat officia laborum fuga voluptatem!
+                En Nexo Creative S.A.S., creemos en la importancia de mantener
+                una cultura organizacional sólida basada en principios
+                fundamentales que guían nuestra forma de trabajar y
+                relacionarnos con nuestros clientes y colaboradores. Nuestros
+                valores corporativos son: <br />
+                <br />
+                <ul>
+                  <li>
+                    <strong>Excelencia Técnica: </strong> Nos comprometemos a
+                    mantener los más altos estándares de calidad en cada aspecto
+                    de nuestro trabajo, desde el diseño hasta la implementación,
+                    garantizando soluciones robustas y fiables.
+                  </li><br />
+                  <li><strong>Innovación: </strong>Buscamos constantemente nuevas formas de mejorar y
+                evolucionar, explorando tecnologías emergentes y adaptándonos a
+                las demandas cambiantes del mercado.</li><br />
+                  <li><strong>Colaboración: </strong>Valoramos el
+                trabajo en equipo y la comunicación abierta, fomentando un
+                ambiente donde todos los miembros puedan contribuir con sus
+                ideas y habilidades únicas.</li><br />
+                  <li><strong>Integridad: </strong> Actuamos con honestidad,
+                transparencia y ética en todas nuestras interacciones,
+                manteniendo la confianza de nuestros clientes y socios en todo
+                momento.</li><br />
+                  <li><strong>Compromiso con el Cliente:</strong> Nos dedicamos a comprender
+                las necesidades y objetivos de nuestros clientes, brindando
+                soluciones personalizadas y un servicio excepcional que supere
+                sus expectativas.</li><br />
+                  <li><strong>Adaptabilidad: </strong> Estamos preparados para
+                enfrentar los desafíos y cambios del entorno empresarial, siendo
+                flexibles y ágiles en nuestra respuesta para satisfacer las
+                necesidades del mercado.s</li><br />
+                </ul>
+                En Nexo Creative S.A.S., estamos
+                impulsados por nuestra pasión por la tecnología y el compromiso
+                con la excelencia, trabajando cada día para fortalecer nuestras
+                capacidades y ofrecer soluciones innovadoras que impulsen el
+                éxito de nuestros clientes.
               </p>
             </div>
           </div>
