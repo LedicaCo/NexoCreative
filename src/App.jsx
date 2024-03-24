@@ -7,6 +7,7 @@ import Dropdown from './components/Dropdown';
 import NuestraEmpresa from "./components/NuestraEmpresa";
 import NuestroTalento from "./components/NuestroTalento";
 import NuestroTrabajo from "./components/NuestroTrabajo";
+import DesarrolloALaMedida from "./components/DesarrolloALaMedida";
 
 function App() {
   return (
@@ -57,6 +58,7 @@ function App() {
       <NuestraEmpresa />
       <NuestroTalento />
       <NuestroTrabajo />
+      <DesarrolloALaMedida />
     </>
   );
 }

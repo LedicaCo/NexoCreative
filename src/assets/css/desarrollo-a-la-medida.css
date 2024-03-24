@@ -1,0 +1,42 @@
+.dev-content {
+    width: 100%;
+    background: #101010;
+    
+    .title-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        background: #000;
+        
+        .dev-title {
+            color: ghostwhite;
+            font-size: 1.5rem;
+        }
+    }
+    
+    .image-dev-content {
+        padding: 10px;
+        
+        
+        .img-dev {
+            width: 100%;
+        }
+        
+        .dev-text {
+            padding: 20px;
+            color: ghostwhite;
+            line-height: 1.2em;
+        }
+    }
+    
+
+            
+            
+        
+    }
+    
+    
+    
+    
+}
