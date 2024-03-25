@@ -8,6 +8,7 @@ import NuestraEmpresa from "./components/NuestraEmpresa";
 import NuestroTalento from "./components/NuestroTalento";
 import NuestroTrabajo from "./components/NuestroTrabajo";
 import DesarrolloALaMedida from "./components/DesarrolloALaMedida";
+import NuestrosClientes from "./components/NuestrosClientes";
 
 function App() {
   return (
@@ -58,6 +59,7 @@ function App() {
       <NuestraEmpresa />
       <NuestroTalento />
       <NuestroTrabajo />
+      <NuestrosClientes />
       <DesarrolloALaMedida />
     </>
   );
