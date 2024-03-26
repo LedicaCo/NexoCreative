@@ -107,10 +107,9 @@ const NuestraEmpresa = () => {
             <div className="ne-card-text">
               <p>
                 <br />
-                <br /> Buscamos ser reconocidos como un punto de referencia
-                indiscutible en el ámbito del desarrollo aplicaciones web por
-                nuestra capacidad innovadora, por nuestra dedicación a la
-                excelencia técnica y nuestra firme orientación hacia la
+                <br />Ser reconocidos como un punto de referencia
+                en el ámbito del desarrollo de aplicaciones web por
+                nuestra capacidad innovadora, excelencia técnica y nuestra firme orientación hacia la
                 satisfacción del cliente. <br />
                 <br /> Este compromiso se refleja en nuestra constante búsqueda
                 de tecnologías emergentes y en nuestra determinación de
@@ -119,8 +118,7 @@ const NuestraEmpresa = () => {
                 <br /> Creemos que al elevar continuamente nuestras capacidades
                 y ofrecer soluciones sobresalientes, no solo impulsamos el éxito
                 de nuestra propia empresa, sino que también contribuimos al
-                crecimiento y prosperidad de nuestros clientes en el ámbito
-                digital.
+                crecimiento y prosperidad de nuestros clientes.
               </p>
             </div>
           </div>
