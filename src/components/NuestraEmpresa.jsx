@@ -106,8 +106,7 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                <br />
-                <br />Ser reconocidos como un punto de referencia
+                Ser reconocidos como un punto de referencia
                 en el ámbito del desarrollo de aplicaciones web por
                 nuestra capacidad innovadora, excelencia técnica y nuestra firme orientación hacia la
                 satisfacción del cliente. <br />
