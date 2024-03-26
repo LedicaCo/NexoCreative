@@ -34,7 +34,7 @@
     .ne-image-content {
         display: flex;
         flex-direction: column;
-        width: 30%;
+        width: 40%;
         margin-bottom: 20px;
         
         .ne-card-title {
@@ -51,7 +51,7 @@
     }
     
     .ne-card-text {
-        width: 70%;
+        width: 60%;
         color: ghostwhite;
         margin-bottom: 20px;
         line-height: 1.2em;

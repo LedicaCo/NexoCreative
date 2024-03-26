@@ -62,6 +62,20 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
+                En Nexo Creative S.A.S., estamos comprometidos con liderar la
+                transformación digital de nuestros clientes a través de
+                soluciones tecnológicas de vanguardia. <br />
+                <br /> Nos destacamos por desarrollar aplicaciones web
+                innovadoras y brindar un servicio al cliente excepcional,
+                siempre adaptándonos a las necesidades únicas de cada cliente.{" "}
+                <br />
+                <br /> Con el uso de tecnologías emergentes, buscamos ser un
+                socio confiable que no solo resuelve problemas, sino que también
+                anticipa y aborda las necesidades futuras, permitiendo así que
+                personas, empresas y organizaciones alcancen su máximo potencial
+                en un mundo cada vez más conectado y tecnológico.
+              </p>
+              {/* <p>
                 En Nexo Creative S.A.S., nuestra misión es ser la fuerza motriz
                 detrás de la transformación digital de nuestros clientes,
                 ofreciendo soluciones tecnológicas de vanguardia que impulsen su
@@ -81,7 +95,7 @@ const NuestraEmpresa = () => {
                 personas, empresas y organizaciones, permitiéndoles alcanzar su
                 máximo potencial en un mundo cada vez más conectado y
                 tecnológico.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
@@ -93,13 +107,12 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                En Nexo Creative S.A.S., nuestro objetivo es trascender como un
-                punto de referencia indiscutible en el ámbito del desarrollo de
-                aplicaciones web. <br />
-                <br /> Buscamos ser reconocidos no solo por nuestra capacidad
-                innovadora, sino también por nuestra dedicación a la excelencia
-                técnica y nuestra firme orientación hacia la satisfacción del
-                cliente. <br />
+                <br />
+                <br /> Buscamos ser reconocidos como un punto de referencia
+                indiscutible en el ámbito del desarrollo aplicaciones web por
+                nuestra capacidad innovadora, por nuestra dedicación a la
+                excelencia técnica y nuestra firme orientación hacia la
+                satisfacción del cliente. <br />
                 <br /> Este compromiso se refleja en nuestra constante búsqueda
                 de tecnologías emergentes y en nuestra determinación de
                 establecer nuevos estándares de calidad y eficiencia en el
@@ -133,32 +146,49 @@ const NuestraEmpresa = () => {
                     mantener los más altos estándares de calidad en cada aspecto
                     de nuestro trabajo, desde el diseño hasta la implementación,
                     garantizando soluciones robustas y fiables.
-                  </li><br />
-                  <li><strong>Innovación: </strong>Buscamos constantemente nuevas formas de mejorar y
-                evolucionar, explorando tecnologías emergentes y adaptándonos a
-                las demandas cambiantes del mercado.</li><br />
-                  <li><strong>Colaboración: </strong>Valoramos el
-                trabajo en equipo y la comunicación abierta, fomentando un
-                ambiente donde todos los miembros puedan contribuir con sus
-                ideas y habilidades únicas.</li><br />
-                  <li><strong>Integridad: </strong> Actuamos con honestidad,
-                transparencia y ética en todas nuestras interacciones,
-                manteniendo la confianza de nuestros clientes y socios en todo
-                momento.</li><br />
-                  <li><strong>Compromiso con el Cliente:</strong> Nos dedicamos a comprender
-                las necesidades y objetivos de nuestros clientes, brindando
-                soluciones personalizadas y un servicio excepcional que supere
-                sus expectativas.</li><br />
-                  <li><strong>Adaptabilidad: </strong> Estamos preparados para
-                enfrentar los desafíos y cambios del entorno empresarial, siendo
-                flexibles y ágiles en nuestra respuesta para satisfacer las
-                necesidades del mercado.</li><br />
+                  </li>
+                  <br />
+                  <li>
+                    <strong>Innovación: </strong>Buscamos constantemente nuevas
+                    formas de mejorar y evolucionar, explorando tecnologías
+                    emergentes y adaptándonos a las demandas cambiantes del
+                    mercado.
+                  </li>
+                  <br />
+                  <li>
+                    <strong>Colaboración: </strong>Valoramos el trabajo en
+                    equipo y la comunicación abierta, fomentando un ambiente
+                    donde todos los miembros puedan contribuir con sus ideas y
+                    habilidades únicas.
+                  </li>
+                  <br />
+                  <li>
+                    <strong>Integridad: </strong> Actuamos con honestidad,
+                    transparencia y ética en todas nuestras interacciones,
+                    manteniendo la confianza de nuestros clientes y socios en
+                    todo momento.
+                  </li>
+                  <br />
+                  <li>
+                    <strong>Compromiso con el Cliente:</strong> Nos dedicamos a
+                    comprender las necesidades y objetivos de nuestros clientes,
+                    brindando soluciones personalizadas y un servicio
+                    excepcional que supere sus expectativas.
+                  </li>
+                  <br />
+                  <li>
+                    <strong>Adaptabilidad: </strong> Estamos preparados para
+                    enfrentar los desafíos y cambios del entorno empresarial,
+                    siendo flexibles y ágiles en nuestra respuesta para
+                    satisfacer las necesidades del mercado.
+                  </li>
+                  <br />
                 </ul>
-                En Nexo Creative S.A.S., estamos
-                impulsados por nuestra pasión por la tecnología y el compromiso
-                con la excelencia, trabajando cada día para fortalecer nuestras
-                capacidades y ofrecer soluciones innovadoras que impulsen el
-                éxito de nuestros clientes.
+                En Nexo Creative S.A.S., estamos impulsados por nuestra pasión
+                por la tecnología y el compromiso con la excelencia, trabajando
+                cada día para fortalecer nuestras capacidades y ofrecer
+                soluciones innovadoras que impulsen el éxito de nuestros
+                clientes.
               </p>
             </div>
           </div>
