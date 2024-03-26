@@ -62,12 +62,11 @@ const NuestraEmpresa = () => {
             </div>
             <div className="ne-card-text">
               <p>
-                En Nexo Creative S.A.S., estamos comprometidos con liderar la
-                transformación digital de nuestros clientes a través de
-                soluciones tecnológicas de vanguardia. <br />
+                Estamos comprometidos con liderar la transformación digital de
+                nuestros clientes a través de soluciones tecnológicas de
+                vanguardia. <br />
                 <br /> Nos destacamos por desarrollar aplicaciones web
-                innovadoras y brindar un servicio al cliente excepcional,
-                siempre adaptándonos a las necesidades únicas de cada cliente.{" "}
+                innovadoras y brindar un servicio al cliente excepcional, adaptándonos a las necesidades únicas de cada cliente.{" "}
                 <br />
                 <br /> Con el uso de tecnologías emergentes, buscamos ser un
                 socio confiable que no solo resuelve problemas, sino que también
